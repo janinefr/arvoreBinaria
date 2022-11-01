@@ -1,4 +1,4 @@
-Árvore Binária de Busca com as seguintes funções:
+Árvore Binária de Busca em C com as seguintes funções:
 
 - criar
 - inserir
